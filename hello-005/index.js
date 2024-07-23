@@ -12,6 +12,10 @@ server.on("request", (req, res) => {
         res.writeHead(200, { Content_Type: "text/html;charset=UTF-8" });
         res.end("<h1>나는 누구일까</h1>");
       }
+      case "/contact": {
+        res.writeHead(200, { Content_Type: "text/html;charset=UTF-8" });
+        res.end("<h1>만나서 반가워</h1>");
+      }
     }
   }
 });
