@@ -14,3 +14,4 @@ JS 문법으로 구현된 코드를 말한다.
 -지금은 `Angula`, `React`, `Vue`, `Svlet`와 같은`Front End`
 `Application`을 만들때 사용하는 도구로 더 인기가 많다.
 -또한 `Front End Application`을 NodeJS도구로 작성할때는`Vanilla JS`를 사용하거나 최근에`typeScript`라는 도구를 사용한다.
+# Biz-JS-2024-07
